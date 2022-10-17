@@ -1,6 +1,6 @@
 .upper {
     background-color: 50,0,250;
-    background-image: img/pattern.png;
+    background-image: C:\Users\leona\OneDrive\Documenti\Boolean\Nuova cartella\html-css-booleaner\img\pattern.png;
 }
 
 .evidenziato {
@@ -8,9 +8,18 @@
 }
 
 .immagine1 {
-    background-image: img/monitor.jpg;
+    background-image: ;
 }
 
 .immagine2 {
     background-image: img/graph.jpg;
+}
+
+.sfondoblu {
+    background-color: cornflowerblue;
+    text-align: left;
+}
+
+.softblu {
+    background-color: aqua;
 }
