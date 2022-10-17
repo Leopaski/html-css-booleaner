@@ -1,8 +1,16 @@
 .upper {
     background-color: 50,0,250;
-    background-image: url(pattern.png);
+    background-image: img/pattern.png;
 }
 
 .evidenziato {
     background-color: yellow;
+}
+
+.immagine1 {
+    background-image: img/monitor.jpg;
+}
+
+.immagine2 {
+    background-image: img/graph.jpg;
 }
