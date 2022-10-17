@@ -1,4 +1,8 @@
 .upper {
     background-color: 50,0,250;
-    background-image: image(img/pattern.png);
+    background-image: url(pattern.png);
+}
+
+.evidenziato {
+    background-color: yellow;
 }
