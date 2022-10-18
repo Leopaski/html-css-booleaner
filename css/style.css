@@ -8,11 +8,11 @@
 }
 
 .immagine1 {
-    background-image: ;
+    background-image: url(../graph.jpg);
 }
 
 .immagine2 {
-    background-image: img/graph.jpg;
+    background-image: url(../monitor.jpg);
 }
 
 .sfondoblu {
